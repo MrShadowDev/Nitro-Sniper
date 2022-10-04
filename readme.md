@@ -14,7 +14,7 @@ NPM Packages:
 
  - discord_token - Your Discord token.
 
-##Extra
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7F41SD)
 
 
