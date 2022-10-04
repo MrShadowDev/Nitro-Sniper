@@ -1,6 +1,6 @@
 
 
-# ODiscord Nitro Sniper
+# Discord Nitro Sniper
 A really simple Discord nitro sniper.
 
 ## Installation
@@ -20,3 +20,5 @@ NPM Packages:
 
 ## License
 MIT © I2rys
+
+## Made by MrShadowDev
